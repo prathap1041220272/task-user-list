@@ -173,4 +173,3 @@ run `npm strat`, `node .`, `node index.js` to run the node server.
     }
 ```
 
-#### (Disclaimer: This is not production grade application.. Just POC)
